@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Titan One', cursive;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 400px;
+  background-color: cadetblue;
+  margin: 100px auto;
+}
+div:hover > p {
+  color: rgb(94, 79, 79);
+  background-color: rgb(75, 234, 27);
+  transform: scale(2);
+}
+div > p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 50%;
+  height: 50%;
+  background-color: brown;
+  color: white;
+  text-align: center;
+  transition: 1s;
+}
