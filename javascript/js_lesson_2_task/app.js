@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 // TASK-1
 let name = prompt('Adinizi yazin','Ali')
 let surname = prompt('Soyadinizi yazin', 'Isiyev')
