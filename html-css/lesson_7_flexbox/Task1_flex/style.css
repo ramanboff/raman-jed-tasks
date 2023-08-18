@@ -21,11 +21,19 @@ nav{
  display: flex;
  gap: 1px;
 }
+
 .link_container{
  color: white;
  text-decoration: none;
- padding:10px ;
 
+
+}
+.link{
+  background-color: black;
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  border-right: 1px solid white;
 }
 .link:hover{
  background-color: red;
@@ -33,9 +41,33 @@ nav{
 main{
  display: flex;
 }
-.section_left{
+.section-left{
 flex-basis: 30%;
+background-color: bisque;
+padding: 20px;
+
+}
+.section-left .img{
+height: 200px;
+  background-image: url(./images/shirt.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #9d9d9d;
 }
 .section-rigth{
- flex-basis: 70%;
+  flex-basis: 70%;
+  background-color: beige;
+  padding: 20px;
+}
+.section-rigth .img{
+  height: 200px;
+ background-image: url(./images/shirt.png);
+ background-size: contain;
+ background-color: rgb(170, 170, 170);
+ background-repeat: no-repeat;
+}
+footer{
+  background-color: teal;
+  padding: 10px;
+  text-align: center;
 }
