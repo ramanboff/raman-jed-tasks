@@ -1,4 +1,4 @@
-// Task1
+// Task1. Direction elave et deyecem hara get))
 
 let direction = prompt('istiqameti daxil et:')
 
@@ -21,7 +21,7 @@ break;
 
 // *********************************************************************
 
-// TASK-2
+// TASK-2 Cekivi boyuvu yaz BMI- ivi deyecem
 
 let ceki = +prompt('cekinizi yazin:')
 let boy  = +prompt('boyunuz nece metrdir?')
