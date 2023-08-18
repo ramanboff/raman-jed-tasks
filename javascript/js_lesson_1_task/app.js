@@ -1,4 +1,5 @@
 // TASK_1  - DUZBUCAGIN SAHESI
+// A: best killer 🗡
 let width = prompt("duzbucaghin enini yazin")
 let height = prompt("duzbucahin hundurluyunu yazin")
 
@@ -8,7 +9,7 @@ console.log(`duzbucagin sahesi ${S} dir`)
 
 // ***********************************************
 //TASK_2 - ISTIFADECINI  YASI
-
+// A: Date-e ehtiyac yoxdur, amme okay :)
 let dateBirtday = prompt('Dogum ilinizi daxil edin')
 
 let currentDate = new Date()
