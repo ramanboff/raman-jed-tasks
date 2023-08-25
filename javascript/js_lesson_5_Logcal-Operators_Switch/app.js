@@ -1,3 +1,4 @@
+// A: live legend 🐱‍💻
 // Task1. Direction elave et deyecem hara get))
 
 let direction = prompt('istiqameti daxil et:')
