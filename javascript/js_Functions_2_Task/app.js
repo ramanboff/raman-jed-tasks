@@ -26,7 +26,7 @@
 //  console.log(largeNum(9,6,16))
 //////////////////////////////////////////////////////////////////
 
-//* Rubl TASK
+//* Rubl TASK 3
 
 let dollar = +prompt('dollar hesabinizda ne qede var: ?')
 let ruble = +prompt('rubl hasabinizda ne qede var ?')
