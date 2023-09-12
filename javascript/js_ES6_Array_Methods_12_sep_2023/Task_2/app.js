@@ -9,5 +9,5 @@ const es6Arrays = () => {
     console.log(endsWithDotNet);
    })
 }
-s
+
 console.log(es6Arrays());
