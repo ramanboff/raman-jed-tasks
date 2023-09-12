@@ -33,23 +33,24 @@
 // function toRuble(rub, dol) {
 //   let sum = ''
 //   dol = 75 * rub
-//   sum += `Butun depozitler uzre mebleg ${rub + dol} rubl `                  /* done */
+//   sum += `Butun depozitler uzre mebleg ${rub + dol} rubl `                  
 //   return sum
 // }
 // console.log(toRuble(ruble, dollar))
 /////////////////////////////////////////////////////////////////
-//*TASK_4 
+// *TASK_4   
+//*?????????????????????????????????????????
 
-let writeNum = +prompt('1-den 99-a qeder(99_daxil) eded daxil edin : (ikireqemlileri bosluq, yeni ara ile ile)')
+// let writeNum = +prompt('1-den 99-a qeder(99_daxil) eded daxil edin : (ikireqemlileri bosluq, yeni ara ile ile)')
 
-function numberToText(num){
+// function numberToText(num){
 
-for(let i=num; i<100; i++){
-  console.log(num)
-}
- }
+// for(let i=num; i<100; i++){
+//   console.log(num)
+// }
+//  }
 
-console.log(numberToText(writeNum))  
+// console.log(numberToText(writeNum))    
 
 ///////////////////////////////////////////////////////////////////////////////////////
 
@@ -96,21 +97,38 @@ console.log(numberToText(writeNum))
 // console.log(calc(number1, number2, operatorFromPrompt))
 
 /////////////////////////////////////////////////////////////////////////////////////////////
-//*TASK_7 -  SANSLI BILET          
+//*TASK_7 -  SANSLI BILET 
+//*????????????????????????????       
 
 // let a = Math.random()
 // let eded = parseInt(a * 1000000)
 // console.log(a)
 // console.log(eded)
 
-// let sonEded = eded%10
-// console.log(sonEded)          ??????????????????????????????????????????????????
+// let sonEded = eded % 10
+// eded = Math.floor( eded / 10)
+
+// let besinci = eded % 10
+// eded = Math.floor( eded / 10)
+
+// let dorduncu = eded % 10
+// eded = Math.floor( eded / 10)
+
+// let ucuncu = eded % 10
+// eded = Math.floor( eded / 10)
+
+// let ikinci = eded % 10
+// eded = Math.floor( eded / 10)
+        
+// let birinci = eded % 10
+// eded = Math.floor( eded / 10)
+        
 
 ///////////////////////////////////////////////////////////////////////////////////////////
 
 //*TASK_8 -  CAPITALIZE WORLDS         /* done */  
 
-// function capitalizeWorlds(soz1, soz2, soz3, soz4){
+// function capitalizeWorlds(soz1, soz2, soz3, soz4){ 
 //  let sentence =  `${soz1} ${soz2} ${soz3} ${soz4}`
 //  return sentence.toUpperCase()
 // }
@@ -129,7 +147,7 @@ console.log(numberToText(writeNum))
 //////////////////////////////////////////////////////////////////////////////////////
 
 //*TASK_10  -- Telefon nomresini parametr kimi qebul eden isValidNumber FUNKSIYASI         
-
+//*????????????????????????????????????????
 
 
 // function isValidNumber(phoneNumber){
