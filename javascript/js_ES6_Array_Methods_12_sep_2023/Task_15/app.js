@@ -12,6 +12,6 @@ const ES6ArrayMethods = (url) => {
       console.log(getSumOfLength);  
 
       
-    });
+    }); 
 };
 console.log(ES6ArrayMethods(url));
