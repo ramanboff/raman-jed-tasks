@@ -1,5 +1,5 @@
 //*Task9. Get an array of users whose name starts with the letter 'P'.
-
+// A: u r best, milord 👑
 let url = "https://jsonplaceholder.typicode.com/users";
 
 const ES6ArrayMethods = (url) => {

@@ -1,7 +1,7 @@
 //*Task4. Get an array of all user names in uppercase.
 
 let url = "https://jsonplaceholder.typicode.com/users";
-
+// A: proud of you 🤠
 const ES6ArrayMethods = (url) => {
   fetch(url)
     .then((res) => res.json())

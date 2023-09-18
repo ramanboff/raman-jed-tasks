@@ -1,7 +1,7 @@
 //*Task17. Get the total number of characters in all user names.
 
 let url = "https://jsonplaceholder.typicode.com/users";
-
+// A: proud of you 🤠
 const ES6ArrayMethods = (url) => {
   fetch(url)
     .then((res) => res.json())

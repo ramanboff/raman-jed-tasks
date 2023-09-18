@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 //*Task3. Get an array of objects containing only the name and email of users whose name starts with 'C'.
 const url = "https://jsonplaceholder.typicode.com/users";
 const ES6ArrayMethods = (url) => {

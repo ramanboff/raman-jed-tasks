@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 //*isActive TASK_1                   /* done */       
 // function isActive(username){
 // return `${username} is active now`                               

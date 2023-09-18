@@ -1,7 +1,7 @@
 //*Task16. Get an array of all user IDs multiplied by 2.
 
 let url = "https://jsonplaceholder.typicode.com/users";
-
+// A: proud of you 🤠
 const ES6ArrayMethods = (url) => {
   fetch(url)
     .then((res) => res.json())

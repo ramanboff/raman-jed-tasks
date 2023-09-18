@@ -3,6 +3,7 @@
 /* add(3,5,console.log) //  console-a 8 yazmalidi
 add(3,5,alert) */ //  alert-e 8 yazmalidi
 
+// A: ela
 const add = (num1, num2, cb) => {
   cb(num1 + num2)
 }

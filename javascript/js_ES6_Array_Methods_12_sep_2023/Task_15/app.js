@@ -1,5 +1,5 @@
 //*Task15. Get the average length of all user names.
-
+// A: u r best, milord 👑
 let url = "https://jsonplaceholder.typicode.com/users";
 
 const ES6ArrayMethods = (url) => {

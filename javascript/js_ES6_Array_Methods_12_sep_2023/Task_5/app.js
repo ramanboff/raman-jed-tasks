@@ -1,7 +1,7 @@
 //*Task5. Get the total number of users in the array.
 
 let url = "https://jsonplaceholder.typicode.com/users";
-
+// A: proud of you 🤠
 const ES6ArrayMethods = (url) => {
   fetch(url)
     .then((res) => res.json())

@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 //*TASK1 ***********************************************************
 /* prop2Taker adinda funksiya yaradin. Argument kimi obyekt alsin. Hemin obyektin 'prop-2' propertysinin value-nu cixarsin. Mes: 
 

@@ -1,5 +1,5 @@
 //*Task1. Get all users whose zip code is less than or equal to 50000.
-
+// AL done as 🐉
 function arr() {
   fetch("https://jsonplaceholder.typicode.com/users")
     .then((res) => res.json())
