@@ -1,5 +1,5 @@
 //*Task10. Get an array of users whose email contains the string 'org'.
-
+// A: proud of you 🤠
 let url = "https://jsonplaceholder.typicode.com/users";
 
 const ES6ArrayMethods = (url) => {
