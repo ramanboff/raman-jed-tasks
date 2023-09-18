@@ -1,3 +1,4 @@
+// A: u r best, milord 👑
 //*Task6. Get the sum of all user IDs.
 
 let url = "https://jsonplaceholder.typicode.com/users";
