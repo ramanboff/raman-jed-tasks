@@ -1,0 +1,84 @@
+body {
+  background: #242424;
+}
+
+.buttonGroup {
+  width: 100%;
+  margin: 20rem auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: 3rem;
+}
+
+.buttonGroup__grayButton {
+  background-color: #6f6969;
+}
+
+.buttonGroup__grayButton--button {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 5px solid #8e8d8d;
+}
+
+.buttonGroup__grayButton--button:hover {
+  -webkit-box-shadow: 0 0 2000px white;
+          box-shadow: 0 0 2000px white;
+}
+
+.buttonGroup__redButton {
+  background-color: #742727;
+}
+
+.buttonGroup__redButton--button {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 5px solid #8e8d8d;
+}
+
+.buttonGroup__redButton--button:hover {
+  -webkit-box-shadow: 0 0 2000px white;
+          box-shadow: 0 0 2000px white;
+}
+
+.buttonGroup__blueButton {
+  background-color: #2828b1;
+}
+
+.buttonGroup__blueButton--button {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 5px solid #8e8d8d;
+}
+
+.buttonGroup__blueButton--button:hover {
+  -webkit-box-shadow: 0 0 2000px white;
+          box-shadow: 0 0 2000px white;
+}
+
+.buttonGroup__yellowButton {
+  background-color: #626210;
+}
+
+.buttonGroup__yellowButton--button {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 5px solid #8e8d8d;
+}
+
+.buttonGroup__yellowButton--button:hover {
+  -webkit-box-shadow: 0 0 1000px white;
+          box-shadow: 0 0 1000px white;
+}
+/*# sourceMappingURL=style.css.map */
