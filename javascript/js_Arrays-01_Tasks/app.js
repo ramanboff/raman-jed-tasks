@@ -2,7 +2,7 @@
  //*TASK_1. Massiv yaradin.  olcusunu 5e menimsedin ve prompt-la massivi number-lerle doldurun. 
 
 // const myArray = new Array(5)
-  
+// A: ela
 // for (let i = 0; i< myArray.length; i++){
 //   let userNumber = +prompt(`eded daxil edin `)
 //    myArray[i] = userNumber
