@@ -1,3 +1,11 @@
+/* Bir input yaradin. Hemin input-a 10px ile 100px araliginda bir deyer yaza bilim ve goster button-una clickleyenden sonra yazdigim deyer, asagida olan cevrenin width ve height-i olsun.
+Ve en asagida yazilan sahede  bu cevrenin olcusu haqqinda melumatlar verilsin. Sahesi uzunlugu ve s. 
+pi = 3 goturun. ya da Math.PI ile isleyin. 
+
+Dustur: cevrenin uzunlugu: 2*pi*r
+Cevrenin sahesi: pi*r*r */
+
+
 // input , button, circle
 const button = document.querySelector("button");
 const circle = document.querySelector(".circle");
