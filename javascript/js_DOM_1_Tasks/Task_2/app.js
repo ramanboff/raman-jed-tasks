@@ -29,5 +29,5 @@ const showWithandHeight = () => {
 
   //cevrenin uzunlugu
   uzunluq.innerText = `Cevrenin uzunlugu: ${2 * p * radius}`;
-  sahe.textContent = `Cevrenin Sahesi: ${2 * radius * radius}`;
+  sahe.textContent = `Cevrenin Sahesi: ${p * radius * radius}`;
 };
